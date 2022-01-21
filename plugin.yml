@@ -1,0 +1,15 @@
+name: LoginImmortality
+version: 1.1
+description: Gives immunity to damage until the player moves.
+api-version: 1.15
+load: STARTUP
+author: RandomPersson
+authors: []
+website: https://discord.gg/RmDbKqq
+
+main: pl.org.mensa.rp.mc.LoginImmortality.LoginImmortalityPlugin
+database: false
+depend: []
+prefix: 
+softdepend: []
+loadbefore: []
